@@ -1,0 +1,11 @@
+.DS_Store
+*.pt
+*.pth
+*.csv
+*.mp4
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+venv/
+env/
